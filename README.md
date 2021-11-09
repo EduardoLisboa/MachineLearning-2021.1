@@ -6,7 +6,7 @@ Students:
 - [Natália de Assis Souza][nat_git]
 - [Hellena de Almeida Canuto][hellena_git]
 
-
+---
 
 <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
 <!-- -=-=-=-=-=- LINKS -=-=-=-=-=- -->
