@@ -5,14 +5,15 @@ Group name: **Computatchan**
 
 Students:
 - [Eduardo Antônio de Lucena Lisboa][lisboa_git]
-- [Natália de Assis Souza][nat_git]
 - [Hellena de Almeida Canuto][hellena_git]
+- [Natália de Assis Souza][nat_git]
 
 ---
+
 
 <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
 <!-- -=-=-=-=-=- LINKS -=-=-=-=-=- -->
 <!-- -=-=-=-=-=-=-=-=-=-=-=-=-=-=- -->
 [lisboa_git]: https://github.com/EduardoLisboa
-[nat_git]: https://github.com/assisnat
 [hellena_git]: https://github.com/nothellena
+[nat_git]: https://github.com/assisnat
